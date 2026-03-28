@@ -10,7 +10,7 @@ This project demonstrates a domain-specific chatbot designed to provide empathet
 
 ## Model
 Hugging Face Model:
-https://huggingface.co/YOUR-USERNAME/noyonika-mental-health-chatbot
+https://huggingface.co/Noyonika20/noyonika-mental-health-chatbot
 
 ## Features
 - Emotion-aware responses
